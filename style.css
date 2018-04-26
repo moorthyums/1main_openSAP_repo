@@ -1,7 +1,4 @@
-h1 {
-	color: Blue;
-}
-
-h2 {
-	color: Red;
+h1{
+	color: blue;
+	text-align: left;
 }
